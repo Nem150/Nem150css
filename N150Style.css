@@ -8,7 +8,7 @@ h1#title{display: none;}
 div.header{display: none;}
 /*li.nav_element{list-style-type: none;}*/
 /*li.nav_element{display: none;}*/
-
+title{background-color:#544445;}
 body{margin:0px;padding:0px;border-spacing:0px;text-align:center; 
 background-color:#555555;font-family:sans-serif; font-size:10pt;border-spacing:0px; height:100%;}
 a {color: yellow; decoration:none;}
